@@ -1,37 +1,46 @@
-<title>Luxe Braid &amp; Beauty LLC - Premium Braids &amp; Beauty Services in Dallas, TX</title>
-  <meta name="description" content="Experience flawless, expertly crafted braid styles at Luxe Braid &amp; Beauty LLC in Dallas. Knotless braids, box braids, feed-in braids &amp; more. Book your appointment today!">
-  <meta name="keywords" content="braids dallas, knotless braids, box braids, feed-in braids, stitch braids, tribal braids, kids braiding, luxury braiding studio, dallas hair braiding, professional braids">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary SEO -->
+  <title>Luxe Braid &amp; Beauty LLC | Premium Braids &amp; Beauty Services in Dallas, TX</title>
+  <meta name="description" content="Experience flawless, expertly crafted braid styles at Luxe Braid &amp; Beauty LLC in Dallas, TX. Knotless braids, box braids, feed-in braids &amp; more. Book your appointment today.">
   <meta name="author" content="Luxe Braid &amp; Beauty LLC">
-  <meta name="language" content="en">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.yourdomain.com/">
-  
+  <link rel="canonical" href="https://www.luxebraidbeauty.com/">
+
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.yourdomain.com/">
-  <meta property="og:title" content="Luxe Braid &amp; Beauty LLC - Premium Braids &amp; Beauty Services in Dallas, TX">
-  <meta property="og:description" content="Experience flawless, expertly crafted braid styles at Luxe Braid &amp; Beauty LLC. Quality, precision, and luxury in Dallas, TX.">
-  <meta property="og:image" content="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/0658d9d4-7d04-4a45-d946-7a124615e800/publicContain">
   <meta property="og:site_name" content="Luxe Braid &amp; Beauty LLC">
+  <meta property="og:url" content="https://www.luxebraidbeauty.com/">
+  <meta property="og:title" content="Luxe Braid &amp; Beauty LLC | Premium Braids in Dallas, TX">
+  <meta property="og:description" content="Luxury braiding studio in Dallas offering knotless braids, box braids, feed-in braids, stitch braids, and kids styles. Book today.">
+  <meta property="og:image" content="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/0658d9d4-7d04-4a45-d946-7a124615e800/publicContain">
   <meta property="og:locale" content="en_US">
-  
+
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="https://www.yourdomain.com/">
-  <meta name="twitter:title" content="Luxe Braid &amp; Beauty LLC - Premium Braids &amp; Beauty Services">
-  <meta name="twitter:description" content="Experience flawless, expertly crafted braid styles at Luxe Braid &amp; Beauty LLC in Dallas, TX. Book your luxury braiding appointment today!">
+  <meta name="twitter:url" content="https://www.luxebraidbeauty.com/">
+  <meta name="twitter:title" content="Luxe Braid &amp; Beauty LLC | Premium Braids &amp; Beauty Services">
+  <meta name="twitter:description" content="Flawless, expertly crafted braid styles in Dallas, TX. Knotless, box, feed-in &amp; stitch braids. Book your appointment today.">
   <meta name="twitter:image" content="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/0658d9d4-7d04-4a45-d946-7a124615e800/publicContain">
-  
-  <!-- Structured Data for Local Business -->
+
+  <!-- Local Business Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "HairSalon",
     "name": "Luxe Braid & Beauty LLC",
-    "description": "Premium braiding studio delivering flawless styles with precision and care. Specializing in knotless braids, box braids, feed-in braids, and more.",
+    "url": "https://www.luxebraidbeauty.com/",
+    "logo": "https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/0658d9d4-7d04-4a45-d946-7a124615e800/publicContain",
     "image": "https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/0658d9d4-7d04-4a45-d946-7a124615e800/publicContain",
-    "url": "https://www.yourdomain.com",
-    "telephone": "+14698381871",
+    "description": "Premium braiding studio in Dallas, TX delivering flawless styles with precision and care. Specializing in knotless braids, box braids, feed-in braids, stitch braids, tribal braids, and kids styles.",
+    "telephone": "+1-469-838-1871",
+    "priceRange": "$$",
+    "appointmentRequired": true,
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "5301 Alpha Rd, Suite 51, Floor 1",
@@ -42,26 +51,34 @@
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": "32.9523",
-      "longitude": "-96.8247"
+      "latitude": 32.9523,
+      "longitude": -96.8247
     },
-    "openingHoursSpecification": {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": [
-        "Monday",
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "Sunday"
-      ],
-      "opens": "00:00",
-      "closes": "23:59",
-      "description": "By Appointment Only"
+    "areaServed": {
+      "@type": "AdministrativeArea",
+      "name": "Dallas–Fort Worth Metroplex"
     },
-    "priceRange": "$$",
-    "servesCuisine": null,
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "19:00"
+      }
+    ],
+    "sameAs": [
+      "https://www.instagram.com/luxebraidbeauty",
+      "https://www.facebook.com/luxebraidbeauty",
+      "https://www.tiktok.com/@luxebraidbeauty"
+    ],
     "hasMap": "https://www.google.com/maps/search/?api=1&query=5301+Alpha+Rd+Suite+51+Dallas+TX+75240",
     "makesOffer": [
       {
@@ -69,7 +86,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Knotless Braids",
-          "description": "Modern, lightweight braiding technique for natural-looking results"
+          "description": "Lightweight, natural-looking braids designed for comfort and style."
         }
       },
       {
@@ -77,7 +94,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Box Braids",
-          "description": "Classic protective styling that's versatile and long-lasting"
+          "description": "Classic protective styling that is versatile and long-lasting."
         }
       },
       {
@@ -85,7 +102,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Feed-In Braids",
-          "description": "Sleek cornrows that blend seamlessly for a natural appearance"
+          "description": "Seamless cornrows blended naturally for a sleek finish."
         }
       },
       {
@@ -93,7 +110,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Stitch Braids",
-          "description": "Intricate cornrow technique creating precise patterns"
+          "description": "Precision cornrow techniques creating clean, detailed patterns."
         }
       },
       {
@@ -101,17 +118,20 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Tribal Braids",
-          "description": "Bold, artistic designs combining cornrows and braids"
+          "description": "Bold and artistic braid designs combining cornrows and free-hanging braids."
         }
       },
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Kids' Braiding Styles",
-          "description": "Gentle, age-appropriate braiding styles for children"
+          "name": "Kids Braiding Styles",
+          "description": "Gentle, age-appropriate braiding styles designed for children."
         }
       }
     ]
   }
   </script>
+
+</head>
+</html>
